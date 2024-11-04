@@ -19,7 +19,8 @@ int main(void) {
 	return -50; // not a success, and can mean whatever you want really.
 }
 ```
-*There are a few pre-defined exit codes with special meanings, which are usually OS specific.*
+*There are a few pre-defined exit codes with special meanings, which are usually OS specific.
+Find some examples [here](https://en.wikipedia.org/wiki/Errno.h)*
 
 All modern C compilers will implicitly return 0, if you do not write a return statement at the end of your **main**() function, but for best practice you should write this out explicitly. 
 
