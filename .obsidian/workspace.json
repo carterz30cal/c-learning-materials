@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level 2/Data Types.md",
+                "file": "Level 3/Threading....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Types"
+              "title": "Threading..."
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level 2/Files and You.md",
+                "file": "Level 2/Void Pointers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Files and You"
+              "title": "Void Pointers"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Variables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,12 +201,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a345651f6b9ab7d9",
+  "active": "9a5f7112bfd65329",
   "lastOpenFiles": [
+    "Level 2/Data Types.md",
+    "Level 2/Void Pointers.md",
     "Level 3/Threading....md",
     "Level 2/Files and You.md",
+    "2024-11-04.md",
     "Level 2/Strings.md",
-    "Level 2/Data Types.md",
     "Level 1/Variables.md",
     "Level 1/Defining Functions.md",
     "The Basics.md",
