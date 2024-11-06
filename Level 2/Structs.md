@@ -20,7 +20,7 @@ struct person {
 };
 
 int main(void) {
-	person bob;
+	struct person bob;
 
 	// you may then use a period to access/assign the 'inner' variables of the structure
 	bob.age = (unsigned char)28u;
@@ -42,7 +42,7 @@ struct person {
 };
 
 int main(void) {
-	person bob;
+	struct person bob;
 	bob.age = (unsigned char)28u;
 	bob.firstname = "Bob";
 	bob.surname = "Bobingson";

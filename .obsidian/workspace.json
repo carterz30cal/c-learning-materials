@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level 2/Files and You.md",
+                "file": "Level 2/Structs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Files and You"
+              "title": "Structs"
             }
           },
           {
@@ -204,8 +204,8 @@
   },
   "active": "a345651f6b9ab7d9",
   "lastOpenFiles": [
-    "Level 3/Threading....md",
     "Level 2/Files and You.md",
+    "Level 3/Threading....md",
     "Level 2/Strings.md",
     "Level 2/Data Types.md",
     "Level 1/Variables.md",
